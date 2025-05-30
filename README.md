@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>How to Choose the Best Custom Shed Builder Near You</title>
   <meta name="description" content="Learn how to choose the best custom shed builder near you with expert tips on shed customization, modular sheds, smart sheds, and more.">
 </head>
 <body>
